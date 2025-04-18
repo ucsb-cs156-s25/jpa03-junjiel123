@@ -1,21 +1,12 @@
 # STARTER-jpa03
 
-```
-TODO: Change link below from the example running app to your own running app
-For example, you might change it to:
-
-Running at: <https://jpa03-cgaucho.dokku-13.cs.ucsb.edu>
-
-Then remove this TODO item.
-```
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
+Running at: <https://jpa03-junjiel123.dokku-10.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
 
 This repo contains Github Actions scripts that automatically create and publish documentation for the code:
 * javadoc for the backend Java code
-* Storybook for the frontend React code
+* Storybook for the frontend React codessh
 
 To set this up, follow the instructions here: [`docs/github-pages.md`](docs/github-pages.md)
 
